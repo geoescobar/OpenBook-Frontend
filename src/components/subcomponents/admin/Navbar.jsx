@@ -21,7 +21,7 @@ export default function Navbar() {
               textDecoration: "none",
             }}
           >
-            <Link to={"/dashboard"}>
+            <Link to={"/"}>
               <img
                 className="logo-two"
                 src="./assets/light-logo.png"

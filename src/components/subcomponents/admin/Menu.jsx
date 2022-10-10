@@ -48,7 +48,7 @@ export default function MenuDropdown() {
                     textDecorationColor: "none",
                   }}
                 >
-                  <Link to={"/dashboard"} className="menu-link">
+                  <Link to={"/"} className="menu-link">
                     Home
                   </Link>
                 </ListItemText>
